@@ -4,7 +4,7 @@ To setup the development environment, follow the following steps:
 1. Clone the repository:<br/>
 `git clone git@github.com:osipra/Weather-Report.git`<br/>
 2. Install `pyhton`:<br/>
-    `sudo apt install python3`<br/>
+`sudo apt install python3`<br/>
 3. Install `pip`:<br/>
 `sudo apt install python3-pip`<br/>
 4. Install `virtualenv`:<br/>
